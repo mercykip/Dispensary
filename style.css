@@ -1,0 +1,134 @@
+body,
+html{
+	min-height: 100%;
+}
+#a{background:url("petf.jpeg");
+     background-repeat: repeat-y;
+     background-position: right;
+     background-color: green;
+	  font-family:arial;
+	  color:white;
+	  }
+	b{
+		color: yellow;
+	}  
+ul{margin:0px;
+   padding:0px;
+   list-style:none;
+}
+#g{
+ background-color: green;
+}
+
+ul li{
+float:left;
+height:40px;
+width:150px;
+background-color:black;
+opacity: .8;
+line-height:20px;
+text-align:center;
+font-size:20px;
+}
+
+ul li a{
+text-decoration:none;
+color:green;
+display:block;
+margin-right:2px;
+}
+
+ul li a:hover{
+background-color:pink;
+}
+
+ul li ul li{
+display:none;
+}
+
+ul li:hover ul li{
+display:block;
+}
+
+#je{background: url("petf.jpeg");
+   background-repeat: repeat-x;
+   background-position: bottom;
+}
+.p1{
+	color: red;
+	background-color: yellow;
+}
+{
+	ul.drop-menu:display-none;
+	li:hover>block;
+}
+
+.mer{background:url("mon6.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+
+}
+#doc{
+background:url("pet9.jpg");
+background-repeat: repeat-y ;
+background-position: left;
+background-color: purple;}
+}
+
+#m{
+	background:url("mon8.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+	 
+#bse{background:url("pet3.png"); 
+  background-repeat: repeat-x;
+  background-size: 200px 200px ;
+  background-position: bottom;
+  background-color: skyblue;
+	}
+
+
+#one{background:url("five.jpeg");
+	border-style:double;
+     border-color:navy;
+ }
+     h1{font-family:arial;
+     color:black;
+    }
+ 
+
+#cit{
+        background:url("mon5.jpg") ;
+        background-size: cover;
+		color:black;}
+		h1{font-family:arial;
+ }
+#v{
+	background:url("pet7.jpg") ;
+        background-size: cover;
+}
+ 	
+ #jem{background:url("mon2.gif");
+	background-repeat: no-repeat;
+	background-size: cover;}
+	h1{
+		color: yellow;
+	}
+	textarea{
+	color: red;
+	}
+	form li{
+		list-style: none;
+		margin-bottom: 20px;
+
+	}
+	form ul{
+		padding-left: 0;
+
+
+	}
+	label{
+		display: block;
+	}
